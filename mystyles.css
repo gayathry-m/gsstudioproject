@@ -1,0 +1,112 @@
+#home{ 
+   background-image:url(gl.jpg);
+   padding:100px !important;
+   min-height: 300px;
+   background-repeat:no-repeat;
+   background-size: cover;
+}
+#about{
+  min-height: 100px;
+}
+#services{
+    text-align: center;
+    /* padding: 10px; */
+    margin-top: 50px;
+}
+#products{
+    text-align: center;
+    /* padding: 20px;  */
+    margin: 50px;
+}
+.container{
+     text-align: center;
+    /* padding: 20px; */
+    margin: 20px;
+}
+#contact{
+    text-align: center;
+}
+body {
+  font-family: Arial, sans-serif;
+  background: #f9f9f9;
+  /* padding: 40px; */
+}
+.footer-container{
+  background-color: #ffffff;
+  color: #000000;
+  padding: 40px 20px;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+.footer{
+  background-color: #ffffff;
+  color: #080808;
+}
+.footer-contact h3 {
+  color: #080808;
+  margin-bottom: 10px;
+}
+.footer-contact p {
+  margin: 8px 0;
+  color: #080808;
+  font-size: 15px;
+}
+.footer-contact a {
+  color: #080808;
+  text-decoration: none;
+}
+.footer-contact a:hover {
+  color: #080808;
+}
+.footer-bottom {
+  background-color:#000000;
+  margin-top: 20px;
+  text-align: center;
+  font-size: 14px;
+  color: #ffffff;
+  border-top: 1px solid #444;
+  padding-top: 15px;
+}
+.contact-form-container {
+  background: #080808;
+  max-width: 500px;
+  margin: auto;
+  padding: 30px 40px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.contact-form-container h2 {
+  margin-bottom: 20px;
+  text-align: center;
+  color: #ededed;
+}
+form label {
+  display: block;
+  margin-bottom: 8px;
+  color: #080808;
+}
+form input, form textarea {
+  width: 100%;
+  padding: 12px;
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  font-size: 16px;
+}
+form button {
+  background-color: #007BFF;
+  color: white;
+  border: none;
+  padding: 14px 20px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+}
+form button:hover {
+  background-color: #629cda;
+}
+#footer{
+  text-align: center;
+  background-color: #ffffff;
+}
